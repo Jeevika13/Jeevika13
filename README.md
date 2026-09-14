@@ -2,7 +2,7 @@
 
 **Salesforce Administrator | CRM Consultant | Sales Cloud & Flow Automation**
 
-I'm a Salesforce Certified Administrator with 3+ years of experience configuring, automating, and supporting CRM systems for real estate businesses 鈥� from requirements gathering through UAT and production support.
+I'm a Salesforce Certified Administrator with 3+ years of experience configuring, automating, and supporting CRM systems for real estate businesses  from requirements gathering through UAT and production support.
 
 ##  What I work with
 - **Core Admin:** Profiles, Permission Sets, Queues, Record Types, Page Layouts, Validation Rules
