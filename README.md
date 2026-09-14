@@ -20,9 +20,9 @@ I'm a Salesforce Certified Administrator with 3+ years of experience configuring
 ##  Featured Projects
 | Repo | What it shows |
 |---|---|
-| [salesforce-flow-automation-portfolio](./salesforce-flow-automation-portfolio) | Documented Flow designs for real estate lead routing & listing automation |
-| [salesforce-lwc-components](./salesforce-lwc-components) | Sample Lightning Web Component built on the Salesforce platform |
-| [salesforce-data-migration-toolkit](./salesforce-data-migration-toolkit) | Data mapping template + cleansing/dedup approach used in live migrations |
+| [salesforce-flow-automation-portfolio](https://github.com/Jeevika13/salesforce-flow-automation-portfolio) | Documented Flow designs for real estate lead routing & listing automation |
+| [salesforce-lwc-components](https://github.com/Jeevika13/salesforce-lwc-components) | Sample Lightning Web Component built on the Salesforce platform |
+| [salesforce-data-migration-toolkit](https://github.com/Jeevika13/salesforce-data-migration-toolkit) | Data mapping template + cleansing/dedup approach used in live migrations |
 
 ##  Reach me
 - Email: jeevika1327@gmail.com
